@@ -11,14 +11,14 @@ pin1 = None
 
 def setup():
   global pin1
-  # initialize hardware:
+  # initialize M5 board:
   M5.begin()
   # initialize pin1 as an output pin:
   pin1 = Pin(1, mode=Pin.OUT)
 
 def loop():
   global pin1
-  # update hardware:
+  # update M5 board:
   M5.update()
   # turn pin1 on (high) and sleep for 1 second:
   pin1.on()
