@@ -11,11 +11,11 @@ Code examples and templates for IXD-256: Advanced Interactive Prototyping.
   
 ### Class 02   
 
-[Blink LED Program](class02/led_blink.py)  
+[Blink LED Program](class02/led_blink.py) - turn LED connected to pin1 on and off  
   
 ### Class 03   
 
-[Fade LED Program](class03/led_fade.py)  
+[Fade LED Program](class03/led_fade.py) - using PWM to fade LED connected to pin1  
   
 
 
