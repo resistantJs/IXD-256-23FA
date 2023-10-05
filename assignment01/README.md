@@ -12,4 +12,6 @@ Links can be inserted with [link text in square brackets](link URL in paranthese
 To insert images, the syntax is almost the same with the addition of exclamation point `!` before [image description in square brackets] followed by (image link in parentheses).  The image below is included with:  
 `![led blink circuit](../class02/led_blink_bb.png)` syntax.  
   
+Note the use of relative paths in links.  The dot slash `./` in link path means the file is in the current directory, `../` means that it is in parent directory, `../../` is one more directory up and so on.  
+  
 ![blink led circuit](../class02/led_blink_bb.png) 
