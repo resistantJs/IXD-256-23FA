@@ -12,6 +12,7 @@ Code examples and templates for IXD-256: Advanced Interactive Prototyping.
 ### Fritzing Components  
   
 [M5 AtomS3 Lite](m5-atomS3-lite-4p.fzpz)  
+[NeoPixel Strip](neopixel-strip.fzpz)  
   
 ### Class 02   
 
