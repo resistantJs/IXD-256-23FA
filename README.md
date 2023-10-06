@@ -9,6 +9,10 @@ Code examples and templates for IXD-256: Advanced Interactive Prototyping.
 [Editing Files on GitHub](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files)  
 [GitHub Markdown Tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
   
+### Fritzing Components  
+  
+[M5 AtomS3 Lite](m5-atomS3-lite-4p.fzpz)  
+  
 ### Class 02   
 
 [Blink LED Program](class02/led_blink.py) - turn LED connected to pin1 on and off  
