@@ -22,5 +22,8 @@ Code examples and templates for IXD-256: Advanced Interactive Prototyping.
 
 [Fade LED Program](class03/led_fade.py) - using PWM to fade LED connected to pin1  
   
+### Class 04   
 
+[RGB LED States](class04/rgb_input_states.py) - using button input and state logic to control RGB LED behavior  
+  
 
