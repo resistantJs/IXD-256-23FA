@@ -24,6 +24,6 @@ Code examples and templates for IXD-256: Advanced Interactive Prototyping.
   
 ### Class 04   
 
-[RGB LED States](class04/rgb_input_states.py) - using button input and state logic to control RGB LED behavior  
+[RGB LED States](class04/rgb_input_2states.py) - using button input and state logic to control RGB LED behavior  
   
 

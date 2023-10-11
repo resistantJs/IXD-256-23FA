@@ -1,5 +1,5 @@
-# change RGB LED colors with button input using state logic
-# release and hold the input closed to change state 
+# change RGB LED colors with digital input using state logic
+# release and hold the input closed to change between 2 states 
 
 import os, sys, io
 import M5
