@@ -11,7 +11,7 @@ def setup():
   global adc, adc_val
   M5.begin()
   # configure ADC input on pin G1 with 11dB attenuation:
-  adc = ADC(Pin(1), atten=ADC.ATTN_11DB)
+  adc = ADC(Pin(8), atten=ADC.ATTN_11DB)
 
 def loop():
   global adc, adc_val
